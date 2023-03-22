@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(177, 79, 184);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+#scroll{
+    text-align: center;
+    
+}
